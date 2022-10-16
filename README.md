@@ -19,9 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on Cybersecurity Project **The Fat Rat**
 
-- 🌱 I’m currently learning **Cybersecurity in Coursera,IBM and Udemy**
-
-- 👯 I’m collaborating with Aravindshivakumar **https://github.com/aravindshivakumar**
+- 🌱 I’m currently learning **Cybersecurity in Coursera, IBM and Udemy**
 
 - 👨‍💻 All of my projects are available at **https://github.com/aravindshivakumar**
 
