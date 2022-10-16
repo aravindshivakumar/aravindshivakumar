@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **lathaaravinds@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/140hyHG0uYTwcmq1sAdKH9sWIyFptcHsX/edit?usp=sharing&ouid=109876772913984288894&rtpof=true&sd=true](https://docs.google.com/document/d/140hyHG0uYTwcmq1sAdKH9sWIyFptcHsX/edit?usp=sharing&ouid=109876772913984288894&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/140hyHG0uYTwcmq1sAdKH9sWIyFptcHsX/edit?usp=sharing&ouid=109876772913984288894&rtpof=true&sd=true](https://docs.google.com/document/d/140hyHG0uYTwcmq1sAdH9sWIyFpcHsX/edit?usp=sharing&ouid=109876772913984288894&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I am a slightly overthinker which helps to solve bugs when i overthink.**
 
