@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aravindshivakumar
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning 2nd Year-CSE
-- 💞️ I’m interested in making projects and i am collabrating with https://github.com/AshwinHarishP
+- 💞️ I’m interested in making projects.
 - 📫 How to reach me +91 8754018099
 
 <!---
