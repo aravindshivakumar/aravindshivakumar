@@ -6,7 +6,7 @@
 <ul>
     <li>👋 Hi, I’m <a href="https://drive.google.com/file/d/1pG6ffeTZKdCqTAt0_OlMhcJrj7NctMTd/view?usp=sharing" target="_blank">@Aravind.S</a>.</li> </br>
     <li>📖 I'm pursuing a B.E. in Computer Science at Kalaignar Karunanidhi Institute of Technology - Coimbatore.</li> </br>
-    <li>💻 Currently, I'm enrolled in NxtWave’s CCBP 4.0 Academy, where I'm learning full-stack development with a specialization in 4.0 technologies. Additionally, I'm enhancing my cybersecurity skills through courses on Coursera, Udemy, and IBM, while also enjoying coding challenges and hands-on projects. With Industry’s first-ever IRC 4.0, I'm gearing up to embrace new challenges in the tech world.</li></br>
+    <li>💻 I'm enhancing my cybersecurity skills through courses on Coursera, Udemy, and IBM, while also enjoying coding challenges and hands-on projects. With Industry’s first-ever IRC 4.0, I'm gearing up to embrace new challenges in the tech world.</li></br>
     <li>😊 I'm actively seeking internships or projects from companies/clients.</li></br>
 </ul>
 
@@ -17,7 +17,6 @@
 <ul>
     <li>Completed my SSLC and HSC at National Model Matriculation Higher Secondary School.</li></br>
     <li>Pursuing my B.E. at Kalaignar Karunanidhi Institute of Technology.</li></br>
-    <li>Pursuing a Full Stack Development course at NxtWave.</li></br>
     <li>Pursuing Full Stack and Cybersecurity courses on Coursera, IBM, and Udemy.</li></br>
 </ul>
 
