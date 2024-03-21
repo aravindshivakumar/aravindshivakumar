@@ -1,21 +1,35 @@
-- 👋 Hi, I’m @aravindshivakumar
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning 2nd Year-CSE
-- 💞️ I’m interested in making projects.
-- 📫 How to reach me +91 8754018099
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99186533/207327992-1eb94d69-7552-4687-b835-8993b2ed3c8b.gif" />
+</p>
+
+<h2>A Short Introduction</h2>
+<ul>
+    <li>👋 Hi, I’m <a href="https://drive.google.com/file/d/1pG6ffeTZKdCqTAt0_OlMhcJrj7NctMTd/view?usp=sharing" target="_blank">@Aravind.S</a>.</li> </br>
+    <li>📖 I'm pursuing a B.E. in Computer Science at Kalaignar Karunanidhi Institute of Technology - Coimbatore.</li> </br>
+    <li>💻 Currently, I'm enrolled in NxtWave’s CCBP 4.0 Academy, where I'm learning full-stack development with a specialization in 4.0 technologies. Additionally, I'm enhancing my cybersecurity skills through courses on Coursera, Udemy, and IBM, while also enjoying coding challenges and hands-on projects. With Industry’s first-ever IRC 4.0, I'm gearing up to embrace new challenges in the tech world.</li></br>
+    <li>😊 I'm actively seeking internships or projects from companies/clients.</li></br>
+</ul>
+
+<h2>Education</h2>
+<p align="center">
+    <img height="200" src="https://user-images.githubusercontent.com/99186533/207382565-ffa98cbc-480f-438d-87cc-03f13b6ae0c2.gif" />
+</p>
+<ul>
+    <li>Completed my SSLC and HSC at National Model Matriculation Higher Secondary School.</li></br>
+    <li>Pursuing my B.E. at Kalaignar Karunanidhi Institute of Technology.</li></br>
+    <li>Pursuing a Full Stack Development course at NxtWave.</li></br>
+    <li>Pursuing Full Stack and Cybersecurity courses on Coursera, IBM, and Udemy.</li></br>
+</ul>
+
+<hr>
+
 
 <!---
 aravindshivakumar/aravindshivakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center"> I'm Aravind.S 👋, </h1>
-<h3 align="center">A passionate software engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinharishp&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinharishp" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinharishp" alt="ashwinharishp" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">A passionate student from India</h3>
 
 - 🔭 I’m currently working on Cybersecurity Project **The Fat Rat**
 
@@ -25,22 +39,15 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **lathaaravinds@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/140hyHG0uYTwcmq1sAdKH9sWIyFptcHsX/edit?usp=sharing&ouid=109876772913984288894&rtpof=true&sd=true](https://docs.google.com/document/d/140hyHG0uYTwcmq1sAdH9sWIyFpcHsX/edit?usp=sharing&ouid=109876772913984288894&rtpof=true&sd=true)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1KViPx3BooTs83j3YEirWZ38EQEe3StUw/view?usp=sharing" target="_blank">Click here</a>.
 
 - ⚡ Fun fact **I am a slightly overthinker which helps to solve bugs when i overthink.**
 
 <h4 align="left">Connect with me:</br> </h4></br>
 Linkdin: https://www.linkedin.com/in/aravind-s-26bb61244/  </br></br>
-Twitter: https://twitter.com/ARAVINDCSE5  </br>
+Twitter: https://twitter.com/ARAVINDCSE5 </br></br>
+Portfolio: https://shivaaravind.netlify.app/ </br>
 
 </h4>
 <p align="left">
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindshivakumar&show_icons=true&locale=en&layout=compact" alt="aravindshivakumar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindshivakumar&show_icons=true&locale=en" alt="aravindshivakumar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravindshivakumar&" alt="aravindshivakumar" /></p>
-
